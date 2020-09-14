@@ -8,9 +8,9 @@ I am an engineering student. Currently studying in 3rd year ECE at The National 
 Skills: ML / JS / HTML / CSS
 
 - 🌱 I’m currently learning Deep learning and CNN 
-- 👯 I’m looking to collaborate on Machine Learning and Deep Learning  
+- 👯 I’m looking to collaborate on Machine Learning and Deep Learning  projects
 - 🤔 I’m looking for help with machine learning,artificial intelligence 
-- 💬 Ask me about ML basics 
+- 💬 Ask me about ML basics ,HTML ,CSS ,Javascript
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/swamy-m-s)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/swamy-m-s-1a74611b1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/onkar.onkarswamy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/its_swamy_ms/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Swamy93946925)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCR2FWDYA4I91kvhUhSyV6jQ)  
