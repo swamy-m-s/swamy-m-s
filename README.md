@@ -2,7 +2,7 @@
 #### I am an Electronics and communication engineering student
 I am an engineering student. Currently studying in 3rd year ECE at The National Institute Of Engineering in Mysore. My fields of interests are like front end web development, ML, AI , Python
 
-Skills:  ML / JS / HTML / CSS/python
+Skills:  ML / JS / HTML / CSS/python / opencv /verilog
 
 - 🔭 I’m currently working on Machine Learning 
 - 🌱 I’m currently learning Deep learning and Python 
@@ -10,7 +10,6 @@ Skills:  ML / JS / HTML / CSS/python
 - 🤔 I’m looking for help with Machine Learning and Deep Learning and python projects 
 - 💬 Ask me about ML , HTML,CSS,JS,Python 
 - 📫 How to reach me: msswamy2000@gmail.com 
-- ⚡ Fun fact: video editing for youtube 
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
